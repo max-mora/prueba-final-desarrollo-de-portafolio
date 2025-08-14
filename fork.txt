@@ -1,3 +1,5 @@
 https://github.com/max-mora/fork-portafolio-desafio-latam.git
 
 https://github.com/max-mora/fork_Cv_Yeltsingimenez
+
+ambos repositorios forkeados y clonados. Se les incluyó cambios en las barras de navegación
